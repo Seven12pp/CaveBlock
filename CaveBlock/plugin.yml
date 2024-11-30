@@ -1,0 +1,5 @@
+name: CaveBlock
+version: 1.0.0
+main: CaveBlock\Seven12\Main
+api: [5.0.0]
+author: Seven12
